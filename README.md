@@ -1,2 +1,0 @@
-# RandomLorem
- Random Text Generator
