@@ -11,7 +11,7 @@ function randomWords(){
 
 button.addEventListener('click', () => {
 
-    if(input.value==="") {
+    if(input.value === "") {
         for(let i = 0; i < 9; i++) {
             randomWords();
         }
